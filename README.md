@@ -10,7 +10,7 @@
 - QQ交流群：[点我查看加入](https://github.com/Licoy/ChatGPT-Midjourney-Pro/issues/1)
 
 ## 演示站点
-- [立即体验](http://demo.gofunai.com/auth?type=register&invite=MQ)
+- [立即体验](https://demo.gofunai.com/auth?type=register&invite=MQ)
 > 提示：注册时使用邀请码：MQ，可以获得对应的邀请奖励以体验功能。
 
 ## 技术架构
