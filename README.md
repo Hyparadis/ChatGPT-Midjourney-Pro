@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1 align="center">ChatGPT-Midjourney-Pro</h1>
+<h1 align="center">🍭 ChatGPT-Midjourney-Pro</h1>
 
 基于 Golang + Vue3 + NaiveUI 的全新AIGC应用
 
 </div>
 
-## 交流咨询
-- QQ交流群：[点我查看加入](https://github.com/Licoy/ChatGPT-Midjourney-Pro/issues/1)
+## 介绍
+🔥 最新的产品说明、演示站、截图等相关内容请[点我查看](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)，本仓库下述介绍内容可能不是最新的，最新的请以此链接为准。
+
+💬 加入QQ群：[点我查看](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)
 
 ## 演示站点
 - [立即体验](https://demo.gofunai.com/auth?type=register&invite=MQ)
@@ -38,7 +40,7 @@
 - [x] 后台管理系统：与前台账户一体化，管理身份自动出现管理入口一键管理
 
 ## 截图
-> 截图非实时更新，实际请以最新的为准
+> 截图非实时更新，实际请以演示站或[产品说明](https://ipdj3sibjm.feishu.cn/docx/ARgjdOpTcohy2txfcPbclVbvnOf)及最新版本的为准
 
 ### PC端
 |  登陆授权   | AI对话  |
