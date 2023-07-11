@@ -4,6 +4,8 @@
 
 基于 Golang + Vue3 + NaiveUI 的全新AIGC应用
 
+私有化企业内部AIGC平台，智能办公高效工作
+
 </div>
 
 ## 介绍
